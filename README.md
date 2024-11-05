@@ -32,6 +32,9 @@ For this reason I am able to combine the "cold" analysis with the emotional aspe
 I think **SEO** is my best weapon to improve digital business performance.
 Here some example of results obtained in different areas.
 
+### ⚡ Luxury cosmetics E-commerce
+![image](https://github.com/user-attachments/assets/31fdf9bf-b68a-4df3-aeaa-011fe4dce548)
+
 
 ### ⚡ SMB company
 ![alt text](https://github.com/simbus82/simbus82/blob/main/seo1.png?raw=true)
