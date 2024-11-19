@@ -52,6 +52,8 @@ Here some example of results obtained in different areas.
 ![alt text](https://github.com/simbus82/simbus82/blob/main/seo4.png?raw=true)
 
 
+[![HitCount](https://hits.dwyl.com/simbus82/simbus82.svg?style=flat&show=unique)](http://hits.dwyl.com/simbus82/simbus82)
+
 <!--
 **simbus82/simbus82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
