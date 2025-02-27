@@ -1,4 +1,4 @@
-# Simone Bussoni - SEO & CRO, Web Project Manager
+# Simone Bussoni - SEO & CRO, Digital Strategy
 ### "Building" the web since 2005
 
 #### Hi there 👋
